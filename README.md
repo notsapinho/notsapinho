@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 make the L.</br>
 make it LOUD.
-</center>
+</p>
