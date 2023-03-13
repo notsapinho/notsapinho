@@ -1,4 +1,4 @@
 <p align="center">
-make the L.</br>
-make it LOUD.
+make the <b>L.<b/></br>
+make it <b>LOUD.<b/>
 </p>
