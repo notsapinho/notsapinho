@@ -1,4 +1,3 @@
 <p align="center">
-make the <b>L</b></br>
-make it <b>LOUD</b>
+em um mundo aonde todos estão atrás do tesouro e muito mais lucrativo vender mapas.
 </p>
